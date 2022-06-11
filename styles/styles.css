@@ -1,0 +1,115 @@
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    border-radius: 5px;
+}
+
+body{
+    background-color: #e5e5e5;
+}
+
+.titulo{
+    position: absolute;
+    display:inline;
+    font-family: 'Island Moments', cursive;
+    font-size: 80px;
+    background-color: #cbcbcb;
+    border-radius: 50%;
+    left: 500px;
+    top: 20px;
+    padding: 1.5%  
+}
+
+.caroimg{
+    position:absolute;
+    left: 450px;
+    top: 275px;
+    height: 410px;
+    width: 410px;
+    border-radius: 50%; 
+    border: 5px solid #E30E0B
+}
+
+.navbar{
+    position: absolute;
+    width: 650px;
+    height: 60px;
+    background-color: #cbcbcb;
+    margin-top: 3%;
+    right: 550px;
+}
+
+.navbar ul{
+    list-style: none;
+    
+}
+
+
+.navbar ul li {
+    display: inline-block;
+    padding: 12px;
+    
+}
+
+a {
+    font-size: 30px;
+    text-decoration: none;
+    color: #000000;
+    
+}
+
+a:hover{
+    color: #fff
+}
+
+
+.heart{
+    position: absolute;
+    left: 900px;
+    top: 400px
+}
+
+
+h2{
+    font-family: 'Inter';
+    font-size: 58px;
+    text-shadow: 0px 0px 4px #000;
+}
+
+h3{
+    font-family: 'Inter';
+    font-size: 35px;
+    text-shadow: 0px 0px 4px #000;
+}
+
+footer{
+    position: absolute;
+    display: inline;
+    color: #000;
+
+}
+
+footer p{
+    top: 900px;
+    left: 1676px;
+    position: relative;
+    padding: 100px;
+    margin: 0;
+    padding: 0;
+    color: #000000;
+}
+
+
+
+
+
+
+
+
+
+    
